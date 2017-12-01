@@ -124,6 +124,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfiles synchronizer written in bash.
+- [dot-sync](https://pypi.python.org/pypi/dot-sync) - A tool for syncing dot files with git
 
 ### Download Utilities
 
